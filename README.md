@@ -1,3 +1,3 @@
 # percona-xtradb
 
-Percon XtraDB 8.0.28
+Percon XtraDB 8.0.26
